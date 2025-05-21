@@ -1,16 +1,15 @@
-# myapp
+Um Projeto para medir o seu IMC
 
-A new Flutter project.
+![Captura de tela 2025-05-21 134754](https://github.com/user-attachments/assets/6ace6348-4d28-4781-848b-51675894ce7b)
 
-## Getting Started
+![Captura de tela 2025-05-21 134812](https://github.com/user-attachments/assets/95451b19-c252-4259-9fb9-1a17bb396050)
 
-This project is a starting point for a Flutter application.
+Feito no: Firebase studio
+Usando Flutter
 
-A few resources to get you started if this is your first Flutter project:
+1. De fork
+2. Clique no botao direito dentro da pasta
+3. "Abrir Terminal"
+4. Code .
+5. E Execute
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
